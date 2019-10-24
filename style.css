@@ -1,3 +1,12 @@
-.page_asset{
+.main_table_Cols{
     border:solid 1px black;
     }
+.L_main_table_head
+{
+    border:solid 1px black;
+}
+.L_main_table_head:hover
+{
+    border:solid 1px red;
+    background-color: yellow
+}
